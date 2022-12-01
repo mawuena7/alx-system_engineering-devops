@@ -1,2 +1,3 @@
 #!/bin/bash
 mv tmp/betty /tmp/directory
+mv tmp/betty /tmp/directory/betty
